@@ -3,7 +3,8 @@ import React from 'react';
   function Result(props) {
     return (
       <div className="result">
-        You prefer <strong>{props.quizResult}</strong>!
+        You are <strong>{props.quizResult}</strong>!
+        <img src = {`${props.quizResultImage}`} />
       </div>
     );
   }
