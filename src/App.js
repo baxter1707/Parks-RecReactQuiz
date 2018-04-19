@@ -26,7 +26,9 @@ class App extends Component {
        'April Ludgate Dwyer': 0,
        'Chris Trager': 0,
        'Ann Perkins': 0,
-       'Donna Meagle': 0
+       'Donna Meagle': 0,
+       'Test for Git': 0
+
      },
      result: '',
      answerImages:[
